@@ -1,0 +1,182 @@
+[
+  {
+    "id": "cs1",
+    "category": "customer_support",
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, go to the login page, click 'Forgot Password,' and follow the instructions sent to your email. If you don't receive an email within a few minutes, please check your spam folder."
+  },
+  {
+    "id": "cs2",
+    "category": "customer_support",
+    "question": "What are your refund policies?",
+    "answer": "Our refund policy allows for full refunds within 30 days of purchase if you're not satisfied with the product. After 30 days, we offer store credit. All refund requests should be submitted through your account page or by contacting customer support."
+  },
+  {
+    "id": "cs3",
+    "category": "customer_support",
+    "question": "How can I track my order?",
+    "answer": "You can track your order by logging into your account and navigating to the 'Orders' section. There, you'll find a tracking number and link for each shipped order. Alternatively, you can use the tracking link provided in your shipping confirmation email."
+  },
+  {
+    "id": "cs4",
+    "category": "customer_support",
+    "question": "How do I update my billing information?",
+    "answer": "To update your billing information, log into your account, go to 'Account Settings', and select 'Payment Methods'. From there, you can edit existing payment methods or add new ones. Changes will be applied to future transactions."
+  },
+  {
+    "id": "cs5",
+    "category": "customer_support",
+    "question": "Can I cancel my subscription?",
+    "answer": "Yes, you can cancel your subscription at any time. Log into your account, navigate to 'Subscriptions', and click the 'Cancel Subscription' button. Your subscription will remain active until the end of the current billing period."
+  },
+  {
+    "id": "cs6",
+    "category": "customer_support",
+    "question": "How do I contact customer support?",
+    "answer": "You can contact our customer support team through multiple channels: email us at support@example.com, call us at 1-800-123-4567 (available Monday-Friday, 9AM-6PM EST), or use the live chat feature on our website during business hours."
+  },
+  {
+    "id": "cs7",
+    "category": "customer_support",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, Apple Pay, and Google Pay. For enterprise customers, we also offer invoice payment options with net-30 terms."
+  },
+  {
+    "id": "cs8",
+    "category": "customer_support",
+    "question": "How do I return a product?",
+    "answer": "To return a product, log into your account, go to 'Orders', select the order containing the item you wish to return, and click 'Return Item'. Follow the instructions to print a return label. Products must be returned in original packaging within 45 days of purchase."
+  },
+  {
+    "id": "cs9",
+    "category": "customer_support",
+    "question": "Is my personal information secure?",
+    "answer": "Yes, we take data security very seriously. We use industry-standard encryption to protect your personal and payment information. We never sell your data to third parties and comply with all relevant privacy regulations. You can review our full privacy policy on our website."
+  },
+  {
+    "id": "cs10",
+    "category": "customer_support",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping typically takes 3-5 business days within the continental US. Express shipping (1-2 business days) and international shipping (7-14 business days) are also available. Shipping times may vary during holidays or due to unforeseen circumstances."
+  },
+  {
+    "id": "is1",
+    "category": "internship_support",
+    "question": "How do I apply for an internship?",
+    "answer": "To apply for an internship, visit our careers page, select the internship role that interests you, and submit your application with your resume and cover letter. Make sure to highlight relevant skills and experiences that match the position requirements."
+  },
+  {
+    "id": "is2",
+    "category": "internship_support",
+    "question": "What qualifications are needed for internships?",
+    "answer": "Qualifications vary by position, but generally we look for candidates who are currently enrolled in a relevant degree program, have a passion for the field, possess basic technical skills required for the role, and demonstrate strong communication and teamwork abilities."
+  },
+  {
+    "id": "is3",
+    "category": "internship_support",
+    "question": "Are your internships paid?",
+    "answer": "Yes, all our internships are paid positions. Compensation is competitive and varies based on the role, location, and your level of education. We also provide additional benefits such as housing stipends for relocating interns and professional development opportunities."
+  },
+  {
+    "id": "is4",
+    "category": "internship_support",
+    "question": "How long do internships last?",
+    "answer": "Our standard internships are 10-12 weeks during summer months (June-August). We also offer part-time internships during spring and fall semesters that typically run for 15-20 weeks. Some exceptional interns may be offered extended opportunities."
+  },
+  {
+    "id": "is5",
+    "category": "internship_support",
+    "question": "Do you sponsor international students for internships?",
+    "answer": "Yes, we do sponsor international students for internships. Eligible candidates must be enrolled in a degree program and have the necessary work authorization (such as CPT or OPT for F-1 visa holders in the US). We provide support with the documentation process."
+  },
+  {
+    "id": "is6",
+    "category": "internship_support",
+    "question": "What is the internship application deadline?",
+    "answer": "Application deadlines vary by program, but summer internships typically have application deadlines in January or February. Fall internships usually have June deadlines, and spring internships often have October deadlines. Check specific position listings for exact dates."
+  },
+  {
+    "id": "is7",
+    "category": "internship_support",
+    "question": "What departments offer internships?",
+    "answer": "We offer internships across multiple departments, including Software Development, Data Science, Marketing, Design, Product Management, Finance, Human Resources, and Customer Success. Each department has specific roles tailored to provide meaningful learning experiences."
+  },
+  {
+    "id": "is8",
+    "category": "internship_support",
+    "question": "Do internships lead to full-time positions?",
+    "answer": "Many of our full-time employees started as interns. While we can't guarantee full-time employment, high-performing interns are often considered for full-time positions upon graduation. Approximately 60% of our eligible interns receive full-time offers."
+  },
+  {
+    "id": "is9",
+    "category": "internship_support",
+    "question": "What is the internship interview process?",
+    "answer": "Our interview process typically consists of 3-4 stages: an initial application screening, a phone interview, a technical or skills assessment, and final interviews with the team you'll be working with. The process usually takes 2-3 weeks from application to decision."
+  },
+  {
+    "id": "is10",
+    "category": "internship_support",
+    "question": "What support do interns receive?",
+    "answer": "Interns receive comprehensive support including orientation, regular mentorship from a dedicated supervisor, professional development workshops, networking events with executives, and peer support groups. We're committed to ensuring interns have a valuable learning experience."
+  },
+  {
+    "id": "ai1",
+    "category": "general_ai",
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of AI that enables systems to learn from data and improve performance over time without explicit programming. It uses algorithms to identify patterns in data, make predictions, and adapt its behavior based on experience rather than following pre-programmed rules."
+  },
+  {
+    "id": "ai2",
+    "category": "general_ai",
+    "question": "How does AI work?",
+    "answer": "AI works by combining large datasets, computational algorithms, and iterative processing to simulate human-like learning and decision-making. Modern AI systems use techniques like neural networks to recognize patterns, make predictions, and improve their accuracy through feedback loops and optimization."
+  },
+  {
+    "id": "ai3",
+    "category": "general_ai",
+    "question": "What's the difference between AI and machine learning?",
+    "answer": "AI is the broader concept of machines being able to perform tasks that typically require human intelligence. Machine learning is a subset of AI that focuses specifically on the ability of machines to receive data and learn from it without explicit programming. All machine learning is AI, but not all AI is machine learning."
+  },
+  {
+    "id": "ai4",
+    "category": "general_ai",
+    "question": "What is deep learning?",
+    "answer": "Deep learning is a specialized subset of machine learning that uses neural networks with multiple layers (hence 'deep') to analyze data. It's particularly effective for complex tasks like image recognition, natural language processing, and speech recognition. Deep learning models require large amounts of data and computational power."
+  },
+  {
+    "id": "ai5",
+    "category": "general_ai",
+    "question": "What are neural networks?",
+    "answer": "Neural networks are computing systems inspired by the human brain's structure. They consist of interconnected nodes (neurons) organized in layers that process information. Each connection has a weight that adjusts during learning. Neural networks excel at recognizing patterns and solving complex problems through their layered architecture."
+  },
+  {
+    "id": "ai6",
+    "category": "general_ai",
+    "question": "What is natural language processing?",
+    "answer": "Natural Language Processing (NLP) is a branch of AI focused on enabling computers to understand, interpret, and generate human language. NLP powers applications like chatbots, translation services, sentiment analysis, and text summarization, allowing machines to interact with humans through natural language."
+  },
+  {
+    "id": "ai7",
+    "category": "general_ai",
+    "question": "What are the ethical concerns with AI?",
+    "answer": "Key ethical concerns with AI include privacy issues from data collection, algorithmic bias leading to unfair outcomes, job displacement due to automation, security vulnerabilities, lack of transparency in decision-making ('black box' problem), and questions about accountability when AI systems make mistakes."
+  },
+  {
+    "id": "ai8",
+    "category": "general_ai",
+    "question": "What is computer vision?",
+    "answer": "Computer vision is an AI field that enables computers to derive meaningful information from digital images and videos. It involves developing algorithms to automatically understand visual content, perform tasks like object recognition, scene understanding, and image classification, effectively giving machines the ability to 'see.'"
+  },
+  {
+    "id": "ai9",
+    "category": "general_ai",
+    "question": "How is AI used in healthcare?",
+    "answer": "AI is transforming healthcare through applications like disease diagnosis (analyzing medical images to detect conditions), drug discovery (predicting which compounds might work as medications), personalized treatment recommendations, patient monitoring through wearable devices, and administrative tasks like scheduling and documentation."
+  },
+  {
+    "id": "ai10",
+    "category": "general_ai",
+    "question": "What skills do I need to work in AI?",
+    "answer": "Working in AI typically requires a combination of technical and soft skills. Technical skills include programming (Python, R), mathematics (linear algebra, calculus, statistics), machine learning frameworks (TensorFlow, PyTorch), and domain expertise. Soft skills include critical thinking, problem-solving, communication, and ethical judgment."
+  }
+]
